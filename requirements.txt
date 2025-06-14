@@ -1,0 +1,11 @@
+opencv-python
+scikit-image
+numpy
+Pillow
+tqdm
+imagehash
+face_recognition
+dlib
+pandas
+
+
